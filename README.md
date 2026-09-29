@@ -6,5 +6,5 @@
 </h3>
 
 <h5 align="center">
-“”
+
 </h5>
